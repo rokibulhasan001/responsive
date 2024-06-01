@@ -1,0 +1,130 @@
+/* Extra small devices (portrait phones, less than 576px)*/ 
+@media (max-width: 575.98px) {
+	.text1{
+		color: white;
+	     font-size: 30px;
+	     float: none;
+	    text-align: center;
+	     width: 100%;
+	   
+
+     }
+    .box{
+	    background-color: lightskyblue;
+	    align-items: center;
+	    
+
+	
+    }
+    .text2{
+    	color: white;
+	     font-size: 30px;
+	     float: none;
+	     text-align: center;
+	     width: 100%;
+	   
+    }
+
+}
+
+/* Small devices (landscape phones, 576px and up)*/ 
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.text1{
+		color: white;
+	     font-size: 30px;
+	     text-align: center;
+	     
+
+     }
+    .box{
+	    background-color: lightgreen;
+	    align-items: center;
+	    
+    }
+    .text2{
+    	color: white;
+	     font-size: 30px;
+	     text-align: center;
+	     
+    }
+
+}
+
+/* Medium devices (tablets, 768px and up)*/ 
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.text1{
+		color: white;
+	     font-size: 60px;
+	     width: 50%;
+	     text-align: center;
+	     
+
+     }
+    .box{
+	    background-color: green;
+	    
+    }
+    .text2{
+    	color: white;
+	     font-size: 60px;
+	     width: 50%;
+	     text-align: center;
+    }
+
+
+}
+
+/* Large devices (desktops, 992px and up)*/ 
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.text1{
+		color: white;
+	     font-size: 90px;
+
+     }
+    .box{
+	    background-color: darkcyan;
+	    text-align: center;
+    }
+    .text2{
+    	color: white;
+	     font-size: 90px;
+    }
+
+
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	.text1{
+		color: white;
+	     font-size: 120px;
+
+     }
+    .box{
+	    background-color: darkgray;
+	    text-align: center;
+    }
+    .text2{
+    	color: white;
+	     font-size: 120px;
+    }
+
+
+}
+
+/* Extra extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+	.text1{
+		color: white;
+	     font-size: 140px;
+
+     }
+    .box{
+	    text-align: center;
+    }
+    .text2{
+    	color: white;
+	     font-size: 140px;
+    }
+
+}

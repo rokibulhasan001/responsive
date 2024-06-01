@@ -1,0 +1,18 @@
+.text1{
+	font-size: 60px;
+	float: left;
+	width: 50%;
+
+}
+.box{
+	background-color: pink;
+	height: 100vh;
+	text-align: left;
+	overflow: hidden;
+}
+.text2{
+
+	font-size: 60px;
+	float: right;
+	width: 50%;
+}
